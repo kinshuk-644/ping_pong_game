@@ -4,7 +4,7 @@ A ping pong game built in **HTML**, **CSS** and **JAVASCRIPT**.
 
 # **How to Play ?**
 
-1. Go to https://kinshuk-644.github.io/music_player/
+1. Go to https://kinshuk-644.github.io/ping_pong_game/
 
 2. Press **Enter** each time to start the game.
 
