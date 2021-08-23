@@ -12,7 +12,7 @@ A ping pong game built in **HTML**, **CSS** and **JAVASCRIPT**.
 
 4. The rod which loses control of the ball lose the game and the winner along with score and maximum score is displayed.
 
-# **Screenshots of the project:** <br/> <br/>
+# **Screenshots of the game:** <br/> <br/>
 
 ![index html - Google Chrome 21-07-2021 13_20_00 (2)](https://user-images.githubusercontent.com/63046538/126495654-cbde9112-7c15-4f10-bef3-5e25ebce04e0.png) <br/> <br/> <br/> <br/> <hr/> <br/> <br/> <br/> <br/>
 
