@@ -10,7 +10,7 @@ A ping pong game built in **HTML**, **CSS** and **JAVASCRIPT**.
 
 3. Move the rods using **A** (move left) and **D** (move right).
 
-4. The rod which loses control of the ball lose the game and the winner along with score and maximum score is displayed.
+4. The rod which loses control of the ball lose the game and the winner along with score and **maximum score is displayed**.
 
 # **Screenshots of the game:** <br/> <br/>
 
